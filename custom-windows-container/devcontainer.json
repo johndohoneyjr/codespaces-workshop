@@ -1,0 +1,9 @@
+{
+    "name": "Windows-Codespace",
+    "dockerFile": "Dockerfile",
+    "forwardPorts": [80],
+    "settings": { 
+        "terminal.integrated.shell.windows": "PowerShell"
+    },
+    "extensions": ["ms-python.python"]
+}
