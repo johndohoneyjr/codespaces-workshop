@@ -1,5 +1,5 @@
 # Use the official image as a parent image
-FROM mcr.microsoft.com/windows/servercore:ltsc2019
+FROM mcr.microsoft.com/windows/servercore:ltsc2022
 
 # Set the working directory
 WORKDIR /app
